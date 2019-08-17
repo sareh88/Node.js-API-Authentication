@@ -1,0 +1,22 @@
+{
+  "name": "Node.js-API-Authentication",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:sareh88/Node.js-API-Authentication.git",
+  "author": "Sareh Almaaz <sareh.almaaz@comjoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
