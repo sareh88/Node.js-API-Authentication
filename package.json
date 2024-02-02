@@ -9,7 +9,7 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
-    "@hapi/joi": "^15.1.1",
+    "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
